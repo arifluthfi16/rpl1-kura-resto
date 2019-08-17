@@ -1,0 +1,16 @@
+body{
+	background-color: hsla(210, 29%, 29%,1);
+}
+
+.container{
+	width: 30%;
+	margin-top: 10.5%;
+	box-shadow: 0 2px 20px; 
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	background-color: white;
+	border-radius: 5px;
+}
+

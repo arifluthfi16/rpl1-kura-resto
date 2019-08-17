@@ -1,0 +1,28 @@
+.isi{
+	margin-top: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	border: 1px solid 	#6495ED;
+}
+
+.login{
+	margin: 40px;
+}
+
+.nav-link{
+	color: black;
+}
+
+.nav-link:hover{
+	background-color: #DCDCDC;
+	color: black;
+	border-radius: 5px;
+	-webkit-transition:  0.3s ease-in-out;
+	-o-transition:  0.5s ease-in;
+	-ms-transition:  0.5s ease-in;
+}
+
+.box{
+	width: 300px;
+}
